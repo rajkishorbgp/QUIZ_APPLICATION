@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">QUIZ APPLICATION</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="start">start</string>
+    <string name="about">about</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developers">Developer</string>
+    <string name="rajkishorbgp6_gmail_com">rajkishorbgp6@gmail.com</string>
+    <string name="rajkishorbgp">`@rajkishorbgp</string>
+    <string name="a">(A)</string>
+    <string name="b">(B)</string>
+    <string name="c">(C)</string>
+    <string name="d">(D)</string>
+    <string name="raj_kishor">Raj Kishor</string>
+    <string name="todo">TODO</string>
+    <string name="next_question">next question</string>
+    <string name="quit">Quit</string>
+    <string name="your_score">Your Score</string>
+    <string name="wrong_answers_0">Wrong Answers: 0</string>
+    <string name="final_score_0">Final Score: 0</string>
+    <string name="restart">restart</string>
+    <string name="currect_answers_0">Currect answers: 0</string>
+    <string name="_0">0</string>
+    <string name="ram_prasann">Ram Prasann</string>
+    <string name="ramprasann123_gmail_com">ramprasann123@gmail.com</string>
+    <string name="_1">1.</string>
+    <string name="wait">Wait</string>
 </resources>
